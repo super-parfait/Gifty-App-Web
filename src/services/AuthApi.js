@@ -2,17 +2,27 @@ import axios from 'axios';
 import jwtDecode from 'jwt-decode';
 import { getItem, addItem, removeItem } from './LocalStorage';
 
-export async function hasAuthenticated(){
+export  function hasAuthenticated(){
     const token =  getItem('mksToken');
     const refreshtoken = getItem('mksRefreshToken');
 
-     token ? await tokenIsValid(token) : await generateToken(refreshtoken) ;
-    
+    return token ? tokenIsValid(token, refreshtoken) : false ;
+
+
+    // if((token && refreshtoken)){
+    //     const value = tokenIsValid(token, refreshtoken)
+
+    //     console.log(value)
+    //     return value
+        
+    // }else{
+    //     return false
+    // }
 }
 
 export function login(credentials) {
     return axios
-        .post('http://192.168.1.10:4005/user/login', credentials)
+        .post('http://localhost:4005/user/login', credentials)
         .then(response => response.data)
         .then(data => {
             addItem('mksToken', data.token);
@@ -22,57 +32,69 @@ export function login(credentials) {
 }
 
 export function register(credentials) {
-        return axios
-            .post('http://192.168.1.10:4005/user/register', credentials)
-            .then(response => response.data.token)
-            .then(token => {
-                addItem('mksToken', token);
-                // addItem('mksrefreshToken', refreshtoken)
-    
-                return true;
-            });
-    }
+    return axios
+        .post('http://localhost:4005/user/register', credentials)
+        .then(response => response.data.token)
+        .then(token => {
+            addItem('mksToken', token);
+            // addItem('mksrefreshToken', refreshtoken)
 
-export function logout() {
-    removeItem('mksToken');
+            return true;
+        });
 }
 
-function  tokenIsValid (token) {
+export function logout() {
+    removeItem('mksToken','mksRefreshToken');
+    // removeItem('mksrefreshToken');
+    // return true
+}
+
+async function  tokenIsValid (token,refreshtoken) {
 
     
     const { exp: expiration } = jwtDecode(token);
 
     if (expiration * 1000 > new Date().getTime()) {
-        return true;
+        return await true;
     }else{
-        return false;
+
+        // return false
+        console.log('token expiré', refreshtoken)
+         if(generateToken(refreshtoken)){
+            return await true
+         }else{
+            return await false
+         }
+        
     }
-    
-    // else{
-    //     console.log("token expiré!!!")
-    //      generateToken();
-    // }
 }
 
 // La fonction pour generer les token et refreshtoken a partir du refresh token
 
-function generateToken(refreshtoken){
+ function generateToken(refreshtoken){
 
     console.log("Voila le refresh token",refreshtoken)
 
-    try {
-        axios
-        .post('http://192.168.1.10:4005/user/refreshtoken', {refresh_token:refreshtoken})
+    // try {
+         axios
+        .post('http://localhost:4005/user/refreshtoken', {refresh_token:refreshtoken})
         .then(response => response.data)
         .then(data => {
             addItem('mksToken', data.token);
             addItem('mksRefreshToken', data.refreshtoken)
+            console.log('true de la fonction de generation de refreshToken')
             return true;
         })
-    } catch (error) {
-        return false
-    }
-    
-    
+        .catch(error=>{
+            if (error.code ==="ERR_BAD_REQUEST") {
+                return false
+              }
+        })
+    // } catch (error) {
+    //     // console.log('error')
+    //     return  error
+    // }
+
+    return false
 
 }

@@ -1,12 +1,12 @@
 import Header from '../../components/Header/Header';
-import Navbar from "../../components/Navbar/Navbar";
-
+import Card from '../../components/Header/Card';
 
 function Home() {
   return (
     <div>
-      <Navbar />
+      
       <Header />
+       {/* <Card /> */}
     </div>
   );
 }

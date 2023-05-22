@@ -1,27 +1,39 @@
 import React from 'react';
-import Vid from '../../assets/animation/4.mp4';
-import SearchForm from '../Search/SearchForm';
+// import Vid from '../../assets/animation/4.mp4';
+// import SearchForm from '../Search/SearchForm';
 
+import Card from './Card'
+import User from './User'
+// import { AiOutlineSearch } from "react-icons/ai";
 
 const Header = () => {
-  return (
-    <div className='w-full h-screen relative'>
-      <video
-        className='w-full max-h-full object-cover'
-        src={Vid}
-        autoPlay
-        loop
-        muted
-      />
-      <div className='absolute w-full h-full top-0 left-0 bg-gray-900/30'></div>
-      <div className='absolute top-0 w-full h-full flex flex-col justify-center text-center text-white p-4'>
-        
-        <h1> </h1>
-        <h2> </h2>
-        <SearchForm />
-      </div>
-    </div>
-  );
-};
 
-export default Header;
+    window.addEventListener("scroll", function() {
+        const header = this.document.querySelector(".header")
+        header.classList.toggle("active", this.window.scrollY > 100)
+    })
+    window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" })
+
+    return (
+        <>
+            <header className="header">
+                <div className="scontainer flex">
+                    <div className="logo">
+                        <h2 className="text-red-500 font-bold">GIFTY</h2>
+                    </div>
+                    {/* <div className="search flex">
+                        
+                        <AiOutlineSearch />  
+                        <input type="text" placeholder="Rechercher"/>
+                    </div> */}
+                    <div className="account flexCenter">
+                        <Card />
+                        <User />
+                    </div>
+                </div>
+            </header>
+        </>
+    )
+}
+
+export default Header

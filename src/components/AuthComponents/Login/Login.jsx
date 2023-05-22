@@ -26,22 +26,22 @@ export default function Login() {
     const handleSubmit = async event => {
         event.preventDefault();
 
-        // console.log(user)
         try {
+            
           const response = await login(user);
 
           console.log(response)
           setIsAuthenticated(response);
-          navigate('/profile');
-        } catch ({response}) {
-          console.log(response);
+          navigate('/accueil');
+        } catch ({error}) {
+          console.log(error);
         }
     }
 
     // Les differentes actions qui sont faites lors du chargement de ma page 
     useEffect(() => {
         if (isAuthenticated) {
-            navigate('/profile');
+            navigate('/accueil');
         }
       }, [navigate, isAuthenticated]);
 

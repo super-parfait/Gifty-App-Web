@@ -1,17 +1,10 @@
 import React, { useState } from 'react';
 import { Link, Outlet } from "react-router-dom";
-// import { BsPersonFill } from 'react-icons/bs';
-// import { ImSearch } from 'react-icons/im';
 import { AiOutlineClose } from 'react-icons/ai';
 import { ImMenu } from 'react-icons/im';
 import { FaUserCircle } from 'react-icons/fa';
-// import {
-//   FaFacebook,
-//   FaTwitter,
-//   FaInstagram,
-//   FaPinterest,
-//   FaYoutube,
-// } from 'react-icons/fa';
+// import Card from '../headerLog/Card';
+
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -25,7 +18,7 @@ const Navbar = () => {
   <>
     <div className='flex w-full justify-between items-center h-20 px-4 absolute z-10 text-white'>
       <div>
-        <h2 onClick={handleNav} className={logo ? 'hidden' : 'block'}><span className='font-black text-red-600'>GIFTY</span></h2>
+        <h2 onClick={handleNav} className={logo ? 'hidden' : 'block'}><span className='font-black text-red-600'>fcejkcnl</span></h2>
       </div>
       {/* <ul className='hidden md:flex'>
         <li>Home</li>
@@ -37,6 +30,7 @@ const Navbar = () => {
       <div className='hidden md:flex '>
         {/* <ImSearch className='' size={20} /> 
         <BsPersonFill size={20} />*/}
+        {/* <Card /> */}
         <Link to = "/login">
           <FaUserCircle size={30}  />
         </Link> 

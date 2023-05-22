@@ -2,8 +2,8 @@ import React from 'react'
 import { useSelector } from 'react-redux'
 import { cartActions } from '../redux-state/CartState'
 import { useDispatch } from 'react-redux'
-import cartgif from "../assets/cartGif.gif";
-import qty from "../assets/qty.png"
+// import cartgif from "../assets/cartGif.gif";
+// import qty from "../assets/qty.png"
 import { MdAdd } from "react-icons/md";
 //import { GrFormSubtract } from "react-icons/gr"
 import { RiSubtractFill } from "react-icons/ri"

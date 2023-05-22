@@ -6,11 +6,11 @@ export default function SearchForm() {
   return (
   <form className='flex justify-between items-center max-w-[700px] mx-auto w-full border p-1 rounded-md text-black bg-gray-100/90'>
     <div>
-      <input className='bg-transparent w-[300px] sm:w-[400px] font-[Poppins] focus:outline-none' type='text'placeholder='Rechercher un cadeau par thème'/>
+      <input className='bg-transparent w-[400px] sm:w-[300px] font-[Poppins] focus:outline-none' type='text'placeholder='Rechercher un cadeau par thème'/>
     </div>
     <div>
       <button>
-        <ImSearch size={20} className='icon' style={{color: '#ffffff'}}  />
+        <ImSearch size={30} className='icon' style={{color: '#ffffff'}}  />
       </button>
     </div>
   </form>
