@@ -13,6 +13,7 @@ import ResetPassword from './Pages/AuthPage/ForgotPassword/ForgotPassword'
 import Settings from './Pages/AuthPage/Settings/Settings';
 
 
+
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(hasAuthenticated());
 

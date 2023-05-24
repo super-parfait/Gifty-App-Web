@@ -107,6 +107,58 @@ const product = [
     category: "face & skin care",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 2,
@@ -116,6 +168,58 @@ const product = [
     category: "beauty care",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 3,
@@ -125,6 +229,58 @@ const product = [
     category: "Pregnancy",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 4,
@@ -134,6 +290,58 @@ const product = [
     category: "Feminine Hygiene",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 5,
@@ -143,6 +351,58 @@ const product = [
     category: "Feminine Hygiene",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 6,
@@ -152,6 +412,58 @@ const product = [
     category: "Sexual Well-Being",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 7,
@@ -161,6 +473,58 @@ const product = [
     category: "Beauty Care",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 8,
@@ -170,6 +534,58 @@ const product = [
     category: "Oral Care",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 9,
@@ -179,6 +595,58 @@ const product = [
     category: "Household",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 10,
@@ -188,6 +656,58 @@ const product = [
     category: "Sexual Well-Being",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 11,
@@ -197,6 +717,58 @@ const product = [
     category: "Household",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 12,
@@ -206,6 +778,58 @@ const product = [
     category: "Medicine & First Aid",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 13,
@@ -215,6 +839,58 @@ const product = [
     category: "Medicine & First Aid",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 14,
@@ -224,6 +900,58 @@ const product = [
     category: "Contraceptive",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 15,
@@ -233,6 +961,58 @@ const product = [
     category: "Pregnancy",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 16,
@@ -242,6 +1022,58 @@ const product = [
     category: "Baby Care",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 17,
@@ -251,6 +1083,58 @@ const product = [
     category: "Contraceptive",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 18,
@@ -260,6 +1144,58 @@ const product = [
     category: "Medicine & First Aid",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 19,
@@ -269,6 +1205,58 @@ const product = [
     category: "Medicine & First Aid",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 20,
@@ -278,6 +1266,58 @@ const product = [
     category: "Baby Care",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 21,
@@ -287,6 +1327,58 @@ const product = [
     category: "Feminine Hygiene",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+
+    ]
   },
   {
     id: 22,
@@ -296,24 +1388,57 @@ const product = [
     category: "Baby Care",
     image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
-  },
-  {
-    id: 23,
-    name: "La Roche-Posay Hydraphase Intense Masque",
-    price: 12.0,
-    qty: 1,
-    category: "Beauty Care",
-    image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
-    desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
-  },
-  {
-    id: 24,
-    name: "Liposomal D Supreme",
-    price: 15.0,
-    qty: 1,
-    category: "Medicine & First Aid",
-    image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
-    desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
+    produits : [
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      },
+      {
+        id: 1,
+        name: "huile",
+        price: "2500",
+        image: "assets/img/pexels-karolina-grabowska-4397835.jpg",
+        desc: "Pour les fetes des meres"
+      }
+    ]
   },
 ];
 
