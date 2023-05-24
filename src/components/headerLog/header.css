@@ -123,11 +123,11 @@ header {
     z-index: 44;
   }
   .search {
-    border: 2px solid #212121;
+    border: 2px solid #efeeee;
     border-radius: 6px;
     font-size: 15px;
     padding: 0 20px;
-    width: 600px;
+    width: 100%;
   }
   .searchIcon {
     font-size: 22px;
