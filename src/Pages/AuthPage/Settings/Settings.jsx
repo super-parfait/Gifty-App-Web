@@ -2,7 +2,8 @@ import React from 'react';
 import { Box } from '@mui/material';
 // import Typography from '@mui/material/node/Typography';
 import Lists from '../../../components/Settings/Lists';
-import Header from '../../../components/headerLog/Header'
+// import Header from '../../../components/headerLog/Header'
+import '../../../components/headerLog/header.css'
 
 export default function Settings () {
     return (

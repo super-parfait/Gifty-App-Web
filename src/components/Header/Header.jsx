@@ -17,7 +17,7 @@ const Header = () => {
     return (
         <>
             <header className="header">
-                <div className="scontainer-fluid flex">
+                <div className="scontainer flex">
                     <div className="logo">
                         <h2 className="text-red-500 font-bold">GIFTY</h2>
                     </div>

@@ -1,6 +1,6 @@
 import React from "react";
 import SlideCard from '../../../components/Product/Product'
-import  product from '../../../assets/data/data'  
+// import  product from '../../../assets/data/data'  
 
 const Accueil = () => {
    

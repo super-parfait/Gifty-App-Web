@@ -1,6 +1,5 @@
-import React, {useState} from 'react';
+import React from 'react';
 import'./product.css';
-import Carousel from 'react-bootstrap/Carousel';
 // import ProductCard from './ProductCart'
 import  product from '../../assets/data/data'
 import 'bootstrap/dist/css/bootstrap.min.css';
